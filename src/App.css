@@ -1,0 +1,23 @@
+body{
+  background-color: skyblue;
+  text-align: center;
+}
+
+button{
+  background-color: blue;
+  border: none;
+  color: white;
+  padding: 5px;
+  border-radius: 5px;
+}
+
+.item-parent{
+  margin-left: 35%;
+}
+
+.items{
+  background-color: white;
+  width: 400px;
+  text-align: center;
+}
+
